@@ -1,4 +1,5 @@
 --主入口函数。从这里开始lua逻辑
+--山色空蒙雨亦奇
 require 'View/MyTemp/Mytemp'
 require 'Network'
 function Main()
